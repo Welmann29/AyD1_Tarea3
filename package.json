@@ -1,0 +1,22 @@
+{
+  "name": "ayd1_tarea3",
+  "version": "1.0.0",
+  "description": "Servidor para la tarea 3 del curso Analisis y diseño 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Welmann29/AyD1_Tarea3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Welmann29/AyD1_Tarea3/issues"
+  },
+  "homepage": "https://github.com/Welmann29/AyD1_Tarea3#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
